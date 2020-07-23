@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+html, body {
+  background: black;
+  font-family: Abel, Arial, Verdana, sans-serif;
+}
+
+.con_t{
+  text-rendering: optimizeLegibility;
+  font-size: 100%;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
